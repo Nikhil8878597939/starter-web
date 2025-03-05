@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-Hi, modifiing the file
+Hi, going modifiing the file
 # TEAM
 
     <name> -- <role> -- <twitter>
