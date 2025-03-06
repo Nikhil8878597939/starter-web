@@ -1,7 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+<<<<<<< HEAD
 Hi, modifiing
+=======
+Hi, going modifiing the file
+>>>>>>> nikh
 # TEAM
 
     <name> -- <role> -- <twitter>
